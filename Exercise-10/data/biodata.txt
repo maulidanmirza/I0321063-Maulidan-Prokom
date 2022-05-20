@@ -1,0 +1,6 @@
+Nama: mirza
+Umur: 19
+Alamat: bumi
+Nama: maulidan
+Umur: unknown
+Alamat: planet
